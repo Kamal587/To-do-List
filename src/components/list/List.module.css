@@ -1,0 +1,18 @@
+.list{
+    width: 700px;
+    border: 10px solid teal;
+    margin: 50px  auto;
+   
+}
+
+.nameList {
+    font-style: Italic;
+    text-align: center;
+}
+
+
+.items {
+    margin-left: 60px;
+    font: 20px/36px Arial;
+}
+
